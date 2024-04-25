@@ -22,7 +22,7 @@ class Rektangel {
     }
 
     isSquare() {
-        return this.length == this.length
+        return this.length == this.width
     }
 }
 
